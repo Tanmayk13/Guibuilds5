@@ -1,3 +1,3 @@
 # Guibuilds5
 
-University Students Information System Using C++ GUI
+University Students Information System Using C++ GUI and SQL Database
