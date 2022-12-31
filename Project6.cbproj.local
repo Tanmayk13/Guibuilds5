@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022-12-31 21:46:50.691,=C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022-12-31 21:46:50.913,=C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>2022-12-31 21:58:40.357,C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\UniversityInfo.cpp=C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022-12-31 21:58:40.357,C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\UniversityInfo.h=C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022-12-31 21:58:40.357,C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\UniversityInfo.fmx=C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022-12-31 22:06:24.868,C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\Project6.cbproj=C:\Users\Khila\OneDrive\Documents\Embarcadero\Studio\Projects\Project6.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
